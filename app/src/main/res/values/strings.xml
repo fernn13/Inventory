@@ -1,0 +1,38 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Inventaris</string>
+    <string name="attention">Peringatan</string>
+    <string name="back_button">Kembali</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Apakah Anda benar ingin menghapusnya?</string>
+    <string name="no_item_description">ups!\nTidak ada item di Inventaris.\nKlik + untuk menambahkan.</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Detail Item</string>
+    <string name="item_entry_title">Tambah Item</string>
+    <string name="item_name_req">Nama Item*</string>
+    <string name="item_price_req">Harga Item*</string>
+    <string name="no">No</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Jumlah</string>
+    <string name="in_stock">%d stok</string>
+    <string name="quantity_req">Jumlah*</string>
+    <string name="save_action">Simpan</string>
+    <string name="sell">Jual</string>
+    <string name="yes">Ya</string>
+    <string name="required_fields">*Perlu diisi</string>
+</resources>
